@@ -6,7 +6,13 @@
 @import "nav-bar.css";
 @import "screen-header.css";
 
+
+/* screen */
+@import "screens/login.css";
+@import "screens/friends.css";
+
 body {
   font-family: 'Roboto', sans-serif;
+  color: #131313;
 }
 
